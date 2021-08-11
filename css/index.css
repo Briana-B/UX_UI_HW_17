@@ -63,9 +63,7 @@ li {
     width: auto;
 }
 /*Hero Img*/
-img {
-    
-}
+
 .heroImg{
     margin-top: 122px;
     margin-left: auto;
@@ -102,11 +100,12 @@ img {
 }
 
 .heroInfo button {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Rock Salt', "GillSans-SemiBold", monospace;
     font-size: 24px;
     box-shadow: 4px 4px 4px black ;
     border-radius: 9px;
     border-color: white;
+    background-color: white;
     text-align: center;
     padding: 10px;
     margin-top: 50px;
@@ -114,7 +113,7 @@ img {
     margin-bottom: 75px;
 }
 .heroInfo h1 {
-    font-family: "Rock Salt", cursive; 
+    font-family: "Rock Salt", 'GillSans-Bold'; 
     font-size: 32px;
     text-align: justify;
     padding: 50px;
@@ -140,13 +139,13 @@ img {
 }
 
 .card1 h2{
-    font-family: "Rock Salt", cursive;
+    font-family: "Rock Salt", 'GillSans-Bold';
     color: black;
     background-color: white;
     border-radius: 58px;
     text-align: center;
     vertical-align: top;
-    margin-top: 0px;
+    margin-top: 15px;
     margin-bottom: 0px;
     
 }
